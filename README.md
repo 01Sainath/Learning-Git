@@ -1,2 +1,2 @@
 # Learning-Git
-learning Git
+learnt git...
